@@ -75,8 +75,8 @@
 
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0x0005",
         "vid": "0x616A"
+        "pid": "0x0005",
     },
 
     "layouts": {
